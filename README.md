@@ -7,6 +7,7 @@
 [![lxml Version](https://img.shields.io/badge/lxml-4.9.2-green)](https://pypi.org/project/lxml/)
 
 ## Description
+
 🛍️📊 Simplify Amazon product review extraction with this Python script. By utilizing the `requests`, `pandas`, `bs4`, and `lxml` modules, the script effortlessly retrieves and parses HTML content from review pages.
 
 The exported data follows this format:
